@@ -16,8 +16,8 @@ I'm currently focused on integrating traditional frontend paradigms with the eve
 
 ## 📫 Let's Connect!
 
-- 🐦 Twitter: [@0xyshv](https://twitter.com/0xyshv)
-- 🔗 LinkedIn: [Yashasvi Chaudhary](https://www.linkedin.com/in/0xyshv/)
+- [![Yashasvi Chaudhary Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xyshv)
+- [![Yashasvi Chaudhary Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xyshv/)
 - 🌐 Portfolio: [yourportfolio.com](https://0xyshv.vercel.app)
 - 📧 Email: writetoyshv@gmail.com
 
