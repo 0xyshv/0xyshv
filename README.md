@@ -7,7 +7,7 @@ I'm Yashasvi Chaudhary, a Frontend Developer diving deep into the decentralized 
 - **Languages**: JavaScript | TypeScript
 - **Frameworks/Libraries**: React | Next.js
 - **Styling**: TailwindCSS | SaaS
-- **Blockchain**: Basic knowledge and little bit hands-on experience with Web3 technologies.
+- **Blockchain**: Delving with a bit hands-on experience with Web3 technologies.
 
 ## 🛠️ Current Projects
 
